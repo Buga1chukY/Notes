@@ -1,4 +1,4 @@
-[200~1. first we shold create repo in github
+1. First we shold create repo in github
 2. We should create local repo.
 
 # Initialize git.
