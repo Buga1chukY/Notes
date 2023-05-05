@@ -1,4 +1,4 @@
-1. First we shold create repo in github
+1. First we should create repo in github
 2. We should create local repo.
 
 # Initialize git.
@@ -25,8 +25,8 @@ git add <filename>
 git commit -m "commit message"
 
 ### To upload our commit to the repo:
-1. We sould configure remote repo
-2. We sould push our commit to the remote repo.
+1. We should configure remote repo
+2. We should push our commit to the remote repo.
 git push -u origin HEAD
 
 # Unstage changes from stage
