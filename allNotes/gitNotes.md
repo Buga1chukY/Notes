@@ -26,6 +26,8 @@ git commit -m "commit message"
 
 ### To upload our commit to the repo:
 1. We should configure remote repo
+git remote add <remote name> <A remote URL>
+
 2. We should push our commit to the remote repo.
 git push -u origin HEAD
 
